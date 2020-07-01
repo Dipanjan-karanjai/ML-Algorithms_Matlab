@@ -1,0 +1,1 @@
+A=imread('bird_small.png');
